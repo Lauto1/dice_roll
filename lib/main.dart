@@ -9,7 +9,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.red,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Dice roll'),
           backgroundColor: Colors.red,
         ),
         body: DicePage(),
